@@ -2,20 +2,20 @@
     "packages": [
       {
         "name": "myboard",
-        "maintainer": "Jane Developer",
-        "websiteURL": "https://github.com/janedeveloper/myboard",
-        "email": "jane@janedeveloper.org",
+        "maintainer": "Maor Ben David",
+        "websiteURL": "https://github.com/FTPServerApp/myBoard",
+        "email": "bd.maor0@gmail.com",
         "help": {
-          "online": "http://janedeveloper.org/forum/myboard"
+          "online": "in test"
         },
         "platforms": [
           {
-            "name": "My Board",
+            "name": "MacroPad",
             "architecture": "avr",
             "version": "1.0.0",
             "category": "Contributed",
             "help": {
-              "online": "http://janedeveloper.org/forum/myboard"
+              "online": "in test"
             },
             "url": "https://https://github.com/FTPServerApp/myBoard/blob/main/MacroKeys-1.0.0.tar.bz2",
             "archiveFileName": "MacroKeys-1.0.0.tar.bz2",

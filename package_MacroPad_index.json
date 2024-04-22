@@ -19,8 +19,8 @@
             },
             "url": "https://github.com/FTPServerApp/myBoard/raw/main/MacroKeys-1.0.0.tar.bz2",
             "archiveFileName": "MacroKeys-1.0.0.tar.bz2",
-            "checksum": "SHA-256:f8a879c3eb1210394cd48b569b8fd6ae55652493d43d25cf029e74f35f94a0f3",
-            "size": "4717516",
+            "checksum": "SHA-256:0a1734cbd2bd407520b6a42eaadb0882b3a55d33a603de2600acf45c3d0705bb",
+            "size": "4719216",
             "boards": [{ "name": "MacroPad V1" }],
             "toolsDependencies": [
             {
